@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Mohammed Fayez</b>, ASP.NET Core developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13"/> <b>Jordan</b>. I build web apps and APIs using modern Microsoft technologies.</p>
+<p>Welcome to my page! </br> I'm <b>Mohammed Fayez</b>, ASP.NET Core developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/32px-Flag_of_Jordan.svg.png" width="13"/> <b>Jordan</b>. I build web apps and APIs using modern Microsoft technologies.</p>
 
 <h3>Things I code with</h3>
 <p>
